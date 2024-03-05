@@ -34,8 +34,38 @@ import p33_img from "./product_33.png";
 import p34_img from "./product_34.png";
 import p35_img from "./product_35.png";
 import p36_img from "./product_36.png";
+import p37_img from "./product_37.png";
+import p39_img from "./product_39.png";
+import p40_img from "./product_40.png";
+import p41_img from "./product_41.png";
+import p42_img from "./product_42.png";
+import p43_img from "./product_43.png";
+import p44_img from "./product_44.png";
+import p45_img from "./product_45.png";
+import p46_img from "./product_46.png";
+import p47_img from "./product_47.png";
+import p48_img from "./product_48.png";
+import p49_img from "./product_49.png";
+import p50_img from "./product_50.png";
+import p51_img from "./product_51.png";
+import p52_img from "./product_52.png";
+import p53_img from "./product_53.png";
+import p54_img from "./product_54.png";
+import p55_img from "./product_55.png";
+// import p56_img from "./product_56.png";
+// import p57_img from './product_57.png';
+// import p58_img from './product_58.png';
+// import p59_img from './product_59.png';
+// import p60_img from './product_60.png';
+// import p61_img from './product_61.png';
+// import p62_img from './product_62.png';
+// import p63_img from './product_63.png';
+
+
+
 
 let all_product = [
+
   {
     id: 1,
     name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
@@ -132,6 +162,67 @@ let all_product = [
     new_price: 85.0,
     old_price: 120.5,
   },
+  // début women----------------
+
+  {
+    id: 37,
+    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    category: "women",
+    image: p37_img,
+    new_price: 50.0,
+    old_price: 80.5,
+  },
+  {
+    id: 39,
+    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    category: "women",
+    image: p39_img,
+    new_price: 50.0,
+    old_price: 80.5,
+  },
+  {
+    id: 40,
+    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    category: "women",
+    image: p40_img,
+    new_price: 50.0,
+    old_price: 80.5,
+  },
+  {
+    id: 41,
+    name: "go",
+    category: "women",
+    image: p41_img,
+    new_price: 50.0,
+    old_price: 80.5,
+  },
+  {
+    id: 43,
+    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    category: "women",
+    image: p43_img,
+    new_price: 50.0,
+    old_price: 80.5,
+  },
+  {
+    id: 42,
+    name: "go",
+    category: "women",
+    image: p42_img,
+    new_price: 50.0,
+    old_price: 80.5,
+  },
+  {
+    id: 44,
+    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    category: "women",
+    image: p44_img,
+    new_price: 50.0,
+    old_price: 80.5,
+  },
+
+
+  //  -----fin-------------
   {
     id: 13,
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
@@ -228,6 +319,103 @@ let all_product = [
     new_price: 85.0,
     old_price: 120.5,
   },
+  // ------------debuut Men----------
+  {
+    id: 49,
+    name: "Air Jordan Retro-Sneakers",
+    category: "men",
+    image: p49_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 50,
+    name: "Air Jordan Retro-Sneakers",
+    category: "men",
+    image: p50_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 51,
+    name: "Air Jordan Retro-Sneakers",
+    category: "men",
+    image: p51_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 52,
+    name: "Air Jordan Retro-Sneakers ",
+    category: "men",
+    image: p52_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 53,
+    name: "Nike Free Air Force Nike Air Max Sneakers",
+    category: "men",
+    image: p53_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 54,
+    name: "Nike Free Air Force Nike Air Max Sneakers",
+    category: "men",
+    image: p54_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 55,
+    name: "Sneakers Adidas Originals Shoe ASICS",
+    category: "men",
+    image: p55_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+
+
+  // -------fin---------------
+
+
+  // --------------debut------------
+  {
+    id: 45,
+    name: "Nike Flywire Shoe Nike ACG Boot, nike, white",
+    category: "kid",
+    image: p45_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 46,
+    name: "Kids, Shoe, Sneakers, Boot, Clothing, ",
+    category: "kid",
+    image: p46_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 47,
+    name: "Boys Orange Colourblocked Hooded Sweatshirt",
+    category: "kid",
+    image: p47_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+  {
+    id: 48,
+    name: "Kids, Mens Nike Lebron, Shoe,",
+    category: "kid",
+    image: p48_img,
+    new_price: 85.0,
+    old_price: 120.5,
+  },
+
+  // ---------fin---------------
   {
     id: 25,
     name: "Boys Orange Colourblocked Hooded Sweatshirt",
@@ -324,6 +512,73 @@ let all_product = [
     new_price: 85.0,
     old_price: 120.5,
   },
+
+  // -------------------NEW WATCHES----------------------
+  // {
+  //   id: 56,
+  //   name: "Breitling SA Watch Breitling Navitimer",
+  //   image: p56_img,
+  //   new_price: 50.0,
+  //   old_price: 80.5,
+  //   category: "men",
+  // },
+  // {
+  //   id: 57,
+  //   name: "Hublot Blue diamond Watch Blue diamond",
+  //   image: p57_img,
+  //   new_price: 85.0,
+  //   old_price: 120.5,
+  //   category: "men",
+  // },
+  // {
+  //   id: 58,
+  //   name: "Apple Watch Series 1 iPhone X Apple Watch Series 2",
+  //   image: p58_img,
+  //   new_price: 60.0,
+  //   old_price: 100.5,
+  //   category: "men",
+  // },
+  // {
+  //   id: 59,
+  //   name: "Cartoon Clock, Hublot Big Bang Chronograph",
+  //   image: p59_img,
+  //   new_price: 100.0,
+  //   old_price: 150.0,
+  //   category: "men",
+  // },
+  // {
+  //   id: 60,
+  //   name: "Rolex GMT Master II Rolex",
+  //   image: p60_img,
+  //   new_price: 50.0,
+  //   old_price: 80.5,
+  //   category: "men",
+  // },
+  // {
+  //   id: 61,
+  //   name: "Rolex analog watch",
+  //   image: p61_img,
+  //   new_price: 85.0,
+  //   old_price: 120.5,
+  //   category: "men",
+  // },
+  // {
+  //   id: 62,
+  //   name: "Hublot Chronograph Automatic watch Jewellery",
+  //   image: p62_img,
+  //   new_price: 60.0,
+  //   old_price: 100.5,
+  //   category: "men",
+  // },
+  // {
+  //   id: 63,
+  //   name: "Watch Breitling SA Bentley Mulsanne Breitling Navitimer Luxury",
+  //   image: p63_img,
+  //   new_price: 100.0,
+  //   old_price: 150.0,
+  //   category: "men",
+  // },
+
 ];
 
 export default all_product;
